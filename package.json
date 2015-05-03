@@ -1,0 +1,22 @@
+{
+  "name": "es6-spec-changelog",
+  "version": "1.0.0",
+  "description": " ECMAScript 2015(ES6) ChangeLog collection.",
+  "main": "./es6-spec-changelog.json",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azu/es6-spec-changelog.git"
+  },
+  "keywords": [
+    "es6",
+    "ECMAScript"
+  ],
+  "author": "azu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/es6-spec-changelog/issues"
+  },
+  "homepage": "https://github.com/azu/es6-spec-changelog#readme"
+}
