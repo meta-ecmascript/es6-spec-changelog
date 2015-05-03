@@ -7,6 +7,7 @@ This repository has collection of changelogs about ECMAScript 2015(ES6).
 ## data format
 
 - [es6-spec-changelog.tsv](./es6-spec-changelog.tsv)
+- [es6-spec-changelog.json](./es6-spec-changelog.json)
 - [es6-spec-changelog.xlsx](./es6-spec-changelog.xlsx)
 
 ## Contributing
